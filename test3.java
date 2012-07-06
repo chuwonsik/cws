@@ -14,7 +14,7 @@ public class test3 {
 			 * MD_MEASURE_OBJECT 에 등록 (o)
 			 * MD_MEASURE_RESULT : MD_MEASURE_OBJECT = 1 : 1 의 구조로 됨.
 			 */
-			
+			//test kkkkkkkkkkkkkkkkkkkkkkkkkk
 			String s = "";
 			String word_list_dir = "/Calendar3/src/com/android/calendar/EventGeometry.java";
 //			String word_list_dir = "Calendar3";
