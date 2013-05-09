@@ -20,6 +20,7 @@ public class test3 {
 //			String word_list_dir = "Calendar3";
 			String test = word_list_dir;
 //			String word_list_dir = "c:/func.txt";
+// fc usa
 		
 			StringBuilder sb = new StringBuilder();
 			int firstStrIndex = 0;
